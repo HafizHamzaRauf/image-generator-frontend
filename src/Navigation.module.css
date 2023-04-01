@@ -1,0 +1,6 @@
+.navigation {
+  background-color: var(--primary-color--medium);
+  padding: var(--padding-high) 8rem;
+  color: var(--primary-color);
+  font-size: var(--font-size-sm);
+}

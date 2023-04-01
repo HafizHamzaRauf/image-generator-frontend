@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  --primary-color: aliceblue;
+  --primary-color--light: rgb(130, 171, 207);
+  --primary-color--medium: rgb(65, 116, 160);
+  --primar-color--dark: rgb(66, 69, 71);
+
+  --padding-medium: 1.5rem;
+  --padding-high: 3rem;
+  --font-size-sm: 1.6rem;
+  --font-size-md: 2.4rem;
+  --font-size-lg: 3.2rem;
+
+  --flex-gap--md: 4rem;
+
+  --border-radius: 3px;
+}
+
+body {
+  background-color: var(--primary-color);
+}
+
+html {
+  font-size: 62.5%;
+}
